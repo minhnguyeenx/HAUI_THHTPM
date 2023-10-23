@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<?xml-stylesheet type="text/xsl" href="B1_Foreach.xslt"?>
+
+<congty>
+	<donvi madv="a01">
+		<tendv>Phòng tổ chức</tendv>
+		<dienthoai>0123456789</dienthoai>
+		<nhanvien>
+			<manv>tc01</manv>
+			<hoten>Lê Thu Hà</hoten>
+			<ngaysinh>1988-12-12</ngaysinh>
+			<gioitinh>nữ</gioitinh>
+			<hsluong>2.34</hsluong>
+		</nhanvien>
+		<nhanvien>
+			<manv>tc02</manv>
+			<hoten>Lê Thu Nga</hoten>
+			<ngaysinh>1989-12-12</ngaysinh>
+			<gioitinh>nữ</gioitinh>
+			<hsluong>3.2</hsluong>
+		</nhanvien>
+	</donvi>
+	<donvi madv="a02">
+		<tendv>Phòng hành chính</tendv>
+		<dienthoai>0123456789</dienthoai>
+		<nhanvien>
+			<manv>hc01</manv>
+			<hoten>Lê Văn Nam</hoten>
+			<ngaysinh>1988-12-12</ngaysinh>
+			<gioitinh>nam</gioitinh>
+			<hsluong>3.34</hsluong>
+		</nhanvien>
+		<nhanvien>
+			<manv>hc02</manv>
+			<hoten>Lê Thu Nga</hoten>
+			<ngaysinh>1989-12-12</ngaysinh>
+			<gioitinh>nữ</gioitinh>
+			<hsluong>2.2</hsluong>
+		</nhanvien>
+		<nhanvien>
+			<manv>hc02</manv>
+			<hoten>Lê Thu Hà</hoten>
+			<ngaysinh>1999-12-12</ngaysinh>
+			<gioitinh>nữ</gioitinh>
+			<hsluong>3.2</hsluong>
+		</nhanvien>
+	</donvi>
+</congty>

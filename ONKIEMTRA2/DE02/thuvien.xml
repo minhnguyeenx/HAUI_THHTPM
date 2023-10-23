@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thuvien>
+  <sach masach="s01">
+    <tensach>CN XML</tensach>
+    <sotrang>150</sotrang>
+    <tacgia>
+      <hoten>Huong Lan</hoten>
+      <diachi>Ha Noi</diachi>
+    </tacgia>
+  </sach>
+  <sach masach="s02">
+    <tensach>Lap trinh HDT</tensach>
+    <sotrang>100</sotrang>
+    <tacgia>
+      <hoten>Huong Lan</hoten>
+      <diachi>Ha Noi</diachi>
+    </tacgia>
+  </sach>
+  <sach masach="s03">
+    <tensach>Lap trinh Java</tensach>
+    <sotrang>120</sotrang>
+    <tacgia>
+      <hoten>Huong Lan</hoten>
+      <diachi>Ha Noi</diachi>
+    </tacgia>
+  </sach>
+  <sach masach="s04">
+    <tensach>Lap trinh PHP</tensach>
+    <sotrang>120</sotrang>
+    <tacgia>
+      <hoten>Huong Lan</hoten>
+      <diachi>Ha Noi</diachi>
+    </tacgia>
+  </sach>
+</thuvien>

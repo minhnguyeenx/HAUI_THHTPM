@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lophoc manv="sv04" tuoi="21">
+  <sinhvien masv="sv01" tuoi="19">
+    <hoten>Van Anh</hoten>
+    <diachi>Ha Noi</diachi>
+    <monhoc>
+      <tenmon>Java</tenmon>
+      <diem>9</diem>
+    </monhoc>
+  </sinhvien>
+  <sinhvien masv="sv02" tuoi="23">
+    <hoten>Van Anh</hoten>
+    <diachi>Ha Noi</diachi>
+    <monhoc>
+      <tenmon>PHP</tenmon>
+      <diem>8</diem>
+    </monhoc>
+  </sinhvien>
+  <sinhvien masv="sv03" tuoi="21">
+    <hoten>Nguyen Thi Minh</hoten>
+    <diachi>Ha Noi</diachi>
+    <monhoc>
+      <tenmon>Tich hop HTPM</tenmon>
+      <diem>10</diem>
+    </monhoc>
+  </sinhvien>
+  <sinhvien masv="sv04" tuoi="21">
+    <hoten>Nguyen Thi Minh</hoten>
+    <diachi>Ha Noi</diachi>
+    <monhoc>
+      <tenmon>Tich hop HTPM</tenmon>
+      <diem>10</diem>
+    </monhoc>
+  </sinhvien>
+  <sinhvien masv="sv05" tuoi="25">
+    <hoten>Nguyen Thi Minh</hoten>
+    <diachi>Ha Noi</diachi>
+    <monhoc>
+      <tenmon>Tich hop HTPM</tenmon>
+      <diem>10</diem>
+    </monhoc>
+  </sinhvien>
+</lophoc>

@@ -1,0 +1,14 @@
+﻿table{
+    background-color: yellow;
+}
+
+table td, table th{
+    font-weight: bold;
+    color: red;
+    font-size: 24px;
+}
+.check{
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: 10px;
+}

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thuvien>
+  <sach masach="s01">
+    <tensach>Lập trình Windows</tensach>
+    <sotrang>200</sotrang>
+    <tacgia hoten="Nguyen Lan Anh">
+      <diachi>Ha Noi</diachi>
+    </tacgia>
+  </sach>
+  <sach masach="s02">
+    <tensach>Lập trình PHP</tensach>
+    <sotrang>300</sotrang>
+    <tacgia hoten="Nguyen Lan Thuy">
+      <diachi>Ha Noi</diachi>
+    </tacgia>
+  </sach>
+  <sach masach="s03">
+    <tensach>Lập trình ASP.net</tensach>
+    <sotrang>100</sotrang>
+    <tacgia hoten="Nguyen Van Anh">
+      <diachi>Ha Noi</diachi>
+    </tacgia>
+  </sach>
+  <sach masach="s04">
+    <tensach>Lập trình .net</tensach>
+    <sotrang>140</sotrang>
+    <tacgia hoten="Nguyen Van Anh">
+      <diachi>Ha Noi</diachi>
+    </tacgia>
+  </sach>
+</thuvien>

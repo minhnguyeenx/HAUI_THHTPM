@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<contact ID="C01" xmlns="http://tempuri.org/XMLSchema1.xsd">
+	<name>
+		<firstname>Tran Van</firstname>
+		<lastname>Hung</lastname>
+	</name>
+	<tel>0123456789</tel>
+	<address>Ha Noi</address>
+	<email>abc@gmail.com</email>
+	<age>70</age>
+	<gender>male</gender>
+</contact>

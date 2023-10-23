@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BaiTap1_XSD"
+    targetNamespace="http://tempuri.org/BaiTap1_XSD.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/BaiTap1_XSD.xsd"
+    xmlns:mstns="http://tempuri.org/BaiTap1_XSD.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:element name="congty">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="donvi" maxOccurs="10">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="tendv" type="xs:string"></xs:element>
+							<xs:element name="dienthoai">
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+										<xs:pattern value="\d{10}"></xs:pattern>
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="nhanvien" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="manv">
+											<xs:simpleType>
+												<xs:restriction base="xs:ID">
+													<xs:maxLength value="4"></xs:maxLength>
+												</xs:restriction>
+											</xs:simpleType>
+										</xs:element>
+										<xs:element name="hoten" type="xs:string"></xs:element>
+										<xs:element name="ngaysinh" type="xs:date"></xs:element>
+										<xs:element name="gioitinh">
+											<xs:simpleType>
+												<xs:restriction base="xs:string">
+													<xs:enumeration value="nam"></xs:enumeration>
+													<xs:enumeration value="nữ"></xs:enumeration>
+												</xs:restriction>
+											</xs:simpleType>
+										</xs:element>
+										<xs:element name="hsluong">
+											<xs:simpleType>
+												<xs:restriction base="xs:double">
+													<xs:minInclusive value="2.34"></xs:minInclusive>
+													<xs:maxInclusive value="8.8"></xs:maxInclusive>
+												</xs:restriction>
+											</xs:simpleType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="madv">
+							<xs:simpleType>
+								<xs:restriction base="xs:ID">
+									<xs:maxLength value="4"></xs:maxLength>
+								</xs:restriction>
+							</xs:simpleType>
+						</xs:attribute>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

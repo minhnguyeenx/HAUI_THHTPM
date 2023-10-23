@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<congty xmlns="http://tempuri.org/BaiTap1_XSD.xsd">
+	<donvi madv="dv01">
+		<tendv>idiwdok</tendv>
+		<dienthoai>0123456789</dienthoai>
+		<nhanvien>
+			<manv>n001</manv>
+			<hoten>hqwqwjk</hoten>
+			<ngaysinh>1009-12-18</ngaysinh>
+			<gioitinh>nam</gioitinh>
+			<hsluong>3.4</hsluong>
+		</nhanvien>
+	</donvi>
+</congty>

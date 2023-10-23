@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="de1.xslt"?>
+
+<!--xmlns="http://tempuri.org/XMLSchema1.xsd"-->
+<TV TenTV="Khu A Đại học Công Nghiệp">
+	<NhaXB TenNXB="Giáo dục">
+		<Sach MaSach="S001">
+			<TenSach>Tin văn phòng</TenSach>
+			<TheLoai>Tin học</TheLoai>
+			<SoTrang>120</SoTrang>
+		</Sach>
+		<Sach MaSach="S002">
+			<TenSach>Kế toán doanh nghiệp</TenSach>
+			<TheLoai>Kinh tế</TheLoai>
+			<SoTrang>180</SoTrang>
+		</Sach>
+	</NhaXB>
+	<NhaXB TenNXB="Khoa học kỹ thuật">
+		<Sach MaSach="S003">
+			<TenSach>Tin văn phòng</TenSach>
+			<TheLoai>Tin học</TheLoai>
+			<SoTrang>120</SoTrang>
+		</Sach>
+		<Sach MaSach="S004">
+			<TenSach>Kế toán doanh nghiệp</TenSach>
+			<TheLoai>Kinh tế</TheLoai>
+			<SoTrang>180</SoTrang>
+		</Sach>
+	</NhaXB>
+</TV>
+
